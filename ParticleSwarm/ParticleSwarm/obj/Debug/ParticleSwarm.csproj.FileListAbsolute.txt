@@ -1,0 +1,5 @@
+C:\Users\Jaret\Programming\ParticleSwarm\ParticleSwarm\bin\Debug\ParticleSwarm.dll
+C:\Users\Jaret\Programming\ParticleSwarm\ParticleSwarm\bin\Debug\ParticleSwarm.pdb
+C:\Users\Jaret\Programming\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.dll
+C:\Users\Jaret\Programming\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.pdb
+C:\Users\Jaret\Programming\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.csprojResolveAssemblyReference.cache
